@@ -40,7 +40,7 @@ PAYPAL_CLIENT_ID=
 PAYPAL_CLIENT_SECRET=
 
 # Mee6 default playing game
-MEE6_GAME=
+MEE6_GAME=https://FlowRadio.ml
 
 #IMGUR
 IMGUR_ID=
